@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16434" started-at="2019-07-22T14:33:22Z" finished-at="2019-07-22T14:33:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16434" started-at="2019-07-22T14:33:22Z" finished-at="2019-07-22T14:33:39Z">
+      <class name="ZenithScripts">
+        <test-method status="PASS" signature="ZenithBillers()[pri:0, instance:ZenithScripts@66133adc]" name="ZenithBillers" duration-ms="8653" started-at="2019-07-22T15:33:22Z" finished-at="2019-07-22T15:33:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZenithBillers -->
+        <test-method status="PASS" signature="ZenithQuickTellerMerchant()[pri:0, instance:ZenithScripts@66133adc]" name="ZenithQuickTellerMerchant" duration-ms="1087" started-at="2019-07-22T15:33:31Z" finished-at="2019-07-22T15:33:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZenithQuickTellerMerchant -->
+        <test-method status="PASS" signature="ZenithSignIn()[pri:0, instance:ZenithScripts@66133adc]" name="ZenithSignIn" duration-ms="1203" started-at="2019-07-22T15:33:32Z" finished-at="2019-07-22T15:33:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZenithSignIn -->
+        <test-method status="PASS" signature="ZenithTransferOthers()[pri:0, instance:ZenithScripts@66133adc]" name="ZenithTransferOthers" duration-ms="1120" started-at="2019-07-22T15:33:33Z" finished-at="2019-07-22T15:33:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZenithTransferOthers -->
+        <test-method status="PASS" signature="ZenithTransferZenithAccount()[pri:0, instance:ZenithScripts@66133adc]" name="ZenithTransferZenithAccount" duration-ms="1460" started-at="2019-07-22T15:33:34Z" finished-at="2019-07-22T15:33:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZenithTransferZenithAccount -->
+        <test-method status="PASS" signature="ZenithtransferOwnAccount()[pri:0, instance:ZenithScripts@66133adc]" name="ZenithtransferOwnAccount" duration-ms="1387" started-at="2019-07-22T15:33:36Z" finished-at="2019-07-22T15:33:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZenithtransferOwnAccount -->
+        <test-method status="PASS" signature="airTime()[pri:0, instance:ZenithScripts@66133adc]" name="airTime" duration-ms="1507" started-at="2019-07-22T15:33:37Z" finished-at="2019-07-22T15:33:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- airTime -->
+        <test-method status="PASS" signature="End()[pri:0, instance:ZenithScripts@66133adc]" name="End" is-config="true" duration-ms="0" started-at="2019-07-22T15:33:39Z" finished-at="2019-07-22T15:33:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- End -->
+      </class> <!-- ZenithScripts -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
